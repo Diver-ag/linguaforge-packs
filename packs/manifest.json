@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "packs": {
+    "de": {
+      "name": "German",
+      "version": "1.0.0",
+      "file": "de.json.gz",
+      "entryCount": 89255,
+      "sizeBytes": 2003397
+    },
+    "fr": {
+      "name": "French",
+      "version": "1.0.0",
+      "file": "fr.json.gz",
+      "entryCount": 91356,
+      "sizeBytes": 1811630
+    },
+    "it": {
+      "name": "Italian",
+      "version": "1.0.0",
+      "file": "it.json.gz",
+      "entryCount": 152739,
+      "sizeBytes": 2363610
+    },
+    "pt": {
+      "name": "Portuguese",
+      "version": "1.0.0",
+      "file": "pt.json.gz",
+      "entryCount": 72029,
+      "sizeBytes": 1825498
+    },
+    "tr": {
+      "name": "Turkish",
+      "version": "1.0.0",
+      "file": "tr.json.gz",
+      "entryCount": 25938,
+      "sizeBytes": 614359
+    },
+    "nl": {
+      "name": "Dutch",
+      "version": "1.0.0",
+      "file": "nl.json.gz",
+      "entryCount": 66598,
+      "sizeBytes": 1480608
+    },
+    "ko": {
+      "name": "Korean",
+      "version": "1.0.0",
+      "file": "ko.json.gz",
+      "entryCount": 106231,
+      "sizeBytes": 1629853
+    },
+    "zh": {
+      "name": "Mandarin Chinese",
+      "version": "1.0.0",
+      "file": "zh.json.gz",
+      "entryCount": 121653,
+      "sizeBytes": 4062226
+    }
+  }
+}
