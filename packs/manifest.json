@@ -1,68 +1,77 @@
 {
-  "version": 1,
+  "version": 2,
   "packs": {
     "es": {
       "name": "Spanish",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "es.json.gz",
       "entryCount": 106685,
-      "sizeBytes": 1983265
+      "formCount": 673520,
+      "sizeBytes": 4594182
     },
     "de": {
       "name": "German",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "de.json.gz",
-      "entryCount": 89255,
-      "sizeBytes": 2003397
+      "entryCount": 89256,
+      "formCount": 260002,
+      "sizeBytes": 3249567
     },
     "fr": {
       "name": "French",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "fr.json.gz",
       "entryCount": 91356,
-      "sizeBytes": 1811630
+      "formCount": 300653,
+      "sizeBytes": 3113634
     },
     "it": {
       "name": "Italian",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "it.json.gz",
       "entryCount": 152739,
-      "sizeBytes": 2363610
+      "formCount": 444588,
+      "sizeBytes": 4278600
     },
     "pt": {
       "name": "Portuguese",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "pt.json.gz",
       "entryCount": 72029,
-      "sizeBytes": 1825498
+      "formCount": 357968,
+      "sizeBytes": 3287935
     },
     "tr": {
       "name": "Turkish",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "tr.json.gz",
-      "entryCount": 25938,
-      "sizeBytes": 614359
+      "entryCount": 25939,
+      "formCount": 16606,
+      "sizeBytes": 707360
     },
     "nl": {
       "name": "Dutch",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "nl.json.gz",
-      "entryCount": 66598,
-      "sizeBytes": 1480608
+      "entryCount": 66606,
+      "formCount": 74835,
+      "sizeBytes": 1930557
     },
     "ko": {
       "name": "Korean",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "ko.json.gz",
       "entryCount": 106231,
-      "sizeBytes": 1629853
+      "formCount": 0,
+      "sizeBytes": 1629875
     },
     "zh": {
       "name": "Mandarin Chinese",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "file": "zh.json.gz",
       "entryCount": 121653,
-      "sizeBytes": 4062226
+      "formCount": 0,
+      "sizeBytes": 4062255
     }
   }
 }
