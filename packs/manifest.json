@@ -1,6 +1,13 @@
 {
   "version": 1,
   "packs": {
+    "es": {
+      "name": "Spanish",
+      "version": "1.0.0",
+      "file": "es.json.gz",
+      "entryCount": 106685,
+      "sizeBytes": 1983265
+    },
     "de": {
       "name": "German",
       "version": "1.0.0",
