@@ -1,0 +1,11 @@
+LinguaForge language pack: ko
+
+Dictionary data: Wiktionary (English edition), extracted by Wiktextract / kaikki.org.
+  Licence: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) and GFDL.
+  Source:  https://kaikki.org   (data derived from https://en.wiktionary.org)
+
+Word frequency: FrequencyWords by Hermit Dave, based on OpenSubtitles.
+  Licence: CC BY-SA 4.0   Source: https://github.com/hermitdave/FrequencyWords
+
+This pack is a derived work and is shared under the same CC BY-SA 4.0 licence.
+Frequency ranks are approximate and based on subtitle language, not on any official level list.

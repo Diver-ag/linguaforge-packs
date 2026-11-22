@@ -1,0 +1,8 @@
+LinguaForge language pack: zh (Mandarin Chinese)
+
+Dictionary: CC-CEDICT, https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+  Licence: Creative Commons Attribution-ShareAlike (check the version stated on the download page).
+Word frequency (if included): FrequencyWords by Hermit Dave, based on OpenSubtitles (CC BY-SA 4.0).
+Levels (if included): see the source of the levels file you supplied and keep its licence notice.
+Pinyin tone marks were generated from CC-CEDICT's numbered pinyin.
+This pack is a derived work and is shared under the same share-alike licence.
