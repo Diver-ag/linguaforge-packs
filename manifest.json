@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "3.1",
-  "generatedAt": "2026-11-22T18:12:44.683Z",
+  "version": "3.2",
+  "generatedAt": "2026-11-22T18:43:49.186Z",
   "languages": [
     {
       "code": "de",
@@ -18,7 +18,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/de/de-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/de/de-dictionary-common.csv",
           "sizeBytes": 3518467,
           "sha256": "c5727b3d14df32f4da1efa45fcda0cc758289b41230d889bfe0f30ecf1adf33f",
           "installByDefault": true
@@ -28,7 +28,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/de/de-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/de/de-dictionary.csv",
           "sizeBytes": 6463158,
           "sha256": "7994cb278a142df4388d7b90d4dced71c0e85065be48f1e25888fcbb2d0ea2f0",
           "installByDefault": false,
@@ -39,7 +39,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/de/de-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/de/de-frequency.csv",
           "sizeBytes": 1164340,
           "sha256": "d5e98f20b914dc040867e939cd16c8069cbd829a9df0901ed009873d6ecb5797",
           "installByDefault": true
@@ -49,7 +49,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/de/de-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/de/de-credits.txt",
           "sizeBytes": 602,
           "sha256": "091e513c9f2dd0ecd47de37851dc535ade881ad9b592045c40880c017ea81ce1",
           "installByDefault": true
@@ -71,7 +71,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/es/es-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/es/es-dictionary-common.csv",
           "sizeBytes": 3386882,
           "sha256": "45d33a9aa920fb89a7eec0f7057412cc3c719d5e8cc0a99c1c925dc741302ab9",
           "installByDefault": true
@@ -81,7 +81,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/es/es-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/es/es-dictionary.csv",
           "sizeBytes": 6174752,
           "sha256": "17bb82d713135f208b9fbe98617cb270565d00723857d88853a171bb83faed25",
           "installByDefault": false,
@@ -92,7 +92,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/es/es-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/es/es-frequency.csv",
           "sizeBytes": 1109820,
           "sha256": "67fd572980cc55fa7f3a3cebad741bc7ab74c5cdc7728817c72f62c0248158e3",
           "installByDefault": true
@@ -102,7 +102,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/es/es-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/es/es-credits.txt",
           "sizeBytes": 602,
           "sha256": "9f12a50dd27d5be198af89539805a5e3932746d013c0c962d79077b9abd7fca6",
           "installByDefault": true
@@ -124,7 +124,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/fr/fr-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/fr/fr-dictionary-common.csv",
           "sizeBytes": 2910834,
           "sha256": "e2e5053b72a72821c540784b390bc96d5454759ef86046d12173ced216529a52",
           "installByDefault": true
@@ -134,7 +134,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/fr/fr-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/fr/fr-dictionary.csv",
           "sizeBytes": 4617061,
           "sha256": "68673c42241d32760ae4b44d85865598d51ad17e4bc36c52f9ec4b5aeffe3ae9",
           "installByDefault": false,
@@ -145,7 +145,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/fr/fr-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/fr/fr-frequency.csv",
           "sizeBytes": 877047,
           "sha256": "16b271d51ad7f02e1bf027b339df6d9e1174aa8ee957f164302134e594d6eca2",
           "installByDefault": true
@@ -155,7 +155,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/fr/fr-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/fr/fr-credits.txt",
           "sizeBytes": 602,
           "sha256": "d1598cbf888863629e0e1171913f6203e1305573b3500d6e9ed4fca478e8b7f0",
           "installByDefault": true
@@ -177,7 +177,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/it/it-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/it/it-dictionary-common.csv",
           "sizeBytes": 3083734,
           "sha256": "5eb4459f4c5fcdc00620fc846a5621c990d31bdc2d839e5fb1bbd7da6ff4820d",
           "installByDefault": true
@@ -187,7 +187,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/it/it-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/it/it-dictionary.csv",
           "sizeBytes": 8634799,
           "sha256": "8338c0f715810fd2ef012500d5a25661822f8ab19133f7a002897a82a8e8b25c",
           "installByDefault": false,
@@ -198,7 +198,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/it/it-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/it/it-frequency.csv",
           "sizeBytes": 1332185,
           "sha256": "b61e796d5e8286bfe33088defff510c831eb8b23e01fc347c47d8c84a3d36088",
           "installByDefault": true
@@ -208,7 +208,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/it/it-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/it/it-credits.txt",
           "sizeBytes": 602,
           "sha256": "fbd8d6b95dd7971c7b55cb4580e6ecf894a5e00ddc787a0f8a856c752f84b53a",
           "installByDefault": true
@@ -230,7 +230,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/ko/ko-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/ko/ko-dictionary-common.csv",
           "sizeBytes": 1168214,
           "sha256": "d2c6171dafc2bd33dd8ed67ba1342fe5aa40b7efe2438ac227175527dbedd9f0",
           "installByDefault": true
@@ -240,7 +240,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/ko/ko-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/ko/ko-dictionary.csv",
           "sizeBytes": 1824210,
           "sha256": "1ce889dfd2dec832b30c1ddc961fce266866fba55173c27fde793c3ddb25d817",
           "installByDefault": false,
@@ -251,7 +251,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/ko/ko-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/ko/ko-frequency.csv",
           "sizeBytes": 286852,
           "sha256": "abd0917d82353ac806da4b16559191a263e1dce072df349bbcf927a8a927da9f",
           "installByDefault": true
@@ -261,7 +261,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/ko/ko-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/ko/ko-credits.txt",
           "sizeBytes": 602,
           "sha256": "4d10e92935a29aa320515846794751d70020402728b2522be608aef566ec106b",
           "installByDefault": true
@@ -283,7 +283,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/nl/nl-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/nl/nl-dictionary-common.csv",
           "sizeBytes": 2672109,
           "sha256": "1b6f6808c4535abc20d54538777316be1396a3b1e655787d553f0c12d26972a3",
           "installByDefault": true
@@ -293,7 +293,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/nl/nl-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/nl/nl-dictionary.csv",
           "sizeBytes": 4076339,
           "sha256": "e1297b4a3656551b06516b90575f67fafdd9ce40f532a593ed3c307055623f67",
           "installByDefault": false,
@@ -304,7 +304,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/nl/nl-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/nl/nl-frequency.csv",
           "sizeBytes": 764557,
           "sha256": "4be797b1a797cb52a3b9c3804ef2c5fc60b730d7a6a8041693cef2ef792e4426",
           "installByDefault": true
@@ -314,7 +314,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/nl/nl-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/nl/nl-credits.txt",
           "sizeBytes": 602,
           "sha256": "eaba7543c63007b021e4ca834c0bc7b5bd219236c6d1a47fe9a43588f33ebd8b",
           "installByDefault": true
@@ -336,7 +336,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/pt/pt-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/pt/pt-dictionary-common.csv",
           "sizeBytes": 3797495,
           "sha256": "fd650aa36be7007da1771c850023bacb1a018f1b857c8845d619b3c8e8eca59e",
           "installByDefault": true
@@ -346,7 +346,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/pt/pt-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/pt/pt-dictionary.csv",
           "sizeBytes": 5788639,
           "sha256": "379f16ac109b467df36b2bc29137988890da403fa8a68c499620273fed596d37",
           "installByDefault": false,
@@ -357,7 +357,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/pt/pt-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/pt/pt-frequency.csv",
           "sizeBytes": 753629,
           "sha256": "396f3823655a80105ec6b2aa68efbfa72b2440028917769abddc28e681520b47",
           "installByDefault": true
@@ -367,7 +367,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/pt/pt-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/pt/pt-credits.txt",
           "sizeBytes": 602,
           "sha256": "0192424996cfbb107462eb2b9e43615a985ac522f45f0c29cd8c82ff35d18f91",
           "installByDefault": true
@@ -389,7 +389,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/tr/tr-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/tr/tr-dictionary-common.csv",
           "sizeBytes": 1293661,
           "sha256": "cb2d615f57dfd9521775403ff2b24ff2adc8ef950c3f14109ca6a1a65a750679",
           "installByDefault": true
@@ -399,7 +399,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/tr/tr-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/tr/tr-dictionary.csv",
           "sizeBytes": 1459543,
           "sha256": "8c60e2910c396c21d118186e23b7c709d7c3c0c037a122c4fda53c3b81d610dd",
           "installByDefault": false,
@@ -410,7 +410,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/tr/tr-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/tr/tr-frequency.csv",
           "sizeBytes": 259317,
           "sha256": "0fb8dd6690882732ee4d80748a1434f2ef24a3f4916d7bad2b9a38ea6edc4ee5",
           "installByDefault": true
@@ -420,7 +420,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/tr/tr-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/tr/tr-credits.txt",
           "sizeBytes": 602,
           "sha256": "d70ca3fdd7c47306d7c8371f8ec6b2492a86174c71645c154cc386f144546e54",
           "installByDefault": true
@@ -442,7 +442,7 @@
           "kind": "dictionary",
           "variant": "common",
           "label": "Dictionary (common words)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/zh/zh-dictionary-common.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/zh/zh-dictionary-common.csv",
           "sizeBytes": 2289226,
           "sha256": "eaafe4761f0dbdc9996b5ad7b8d7f8a423c525dbdeaa0f685934456cd1d5d195",
           "installByDefault": true
@@ -452,7 +452,7 @@
           "kind": "dictionary",
           "variant": "full",
           "label": "Dictionary (complete)",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/zh/zh-dictionary.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/zh/zh-dictionary.csv",
           "sizeBytes": 14095585,
           "sha256": "cf36abdfd2da3824b52fd8bdf5bb507d3ba174b437efd39fe4d92d90f6029233",
           "installByDefault": false,
@@ -463,7 +463,7 @@
           "kind": "frequency",
           "variant": "standard",
           "label": "Word frequency",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/zh/zh-frequency.csv",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/zh/zh-frequency.csv",
           "sizeBytes": 1691571,
           "sha256": "7d32fc188648f633415c59e638e278e5ce507be0ffa2400655eedb64ee7aa8e9",
           "installByDefault": true
@@ -473,7 +473,7 @@
           "kind": "credits",
           "variant": "standard",
           "label": "Credits and licence",
-          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.1/packs/zh/zh-credits.txt",
+          "url": "https://cdn.jsdelivr.net/gh/Diver-ag/linguaforge-packs@v3.2/packs/zh/zh-credits.txt",
           "sizeBytes": 571,
           "sha256": "efd7af277d45626dcb1774d2bc06f8f36093d9a07928b888ccc692578ae66c23",
           "installByDefault": true
